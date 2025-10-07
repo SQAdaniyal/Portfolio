@@ -1,7 +1,7 @@
-import SectionTitle from '@/components/SectionTitle';
-import Card from '@/components/Card';
-import GeneralContactForm from '@/components/GeneralContactForm';
-import HireMeForm from '@/components/HireMeForm';
+import SectionTitle from '../components/SectionTitle';
+import Card from '../components/Card';
+import GeneralContactForm from '../components/GeneralContactForm';
+import HireMeForm from '../components/HireMeForm';
 import Image from 'next/image';
 
 const projects = [
