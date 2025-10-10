@@ -1,4 +1,4 @@
-import './globals.css'
+import '../styles/globals.css'
 export const metadata = {
   title: 'Muhammad Daniyal Asif — Executive SQA Engineer',
   description: 'Portfolio - QA Engineer, Automation & Manual Testing, Team Lead'

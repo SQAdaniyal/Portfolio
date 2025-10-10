@@ -239,7 +239,7 @@ export default function Page() {
             </div>
 
             <div>
-              <!-- HireMeForm placeholder --> 
+              {/* HireMeForm placeholder */}
             </div>
           </div>
         </section>
